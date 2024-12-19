@@ -1,4 +1,6 @@
+<!--title-->
 # 10 Useful Tips for JavaScript Programmers
+<!--title/-->
 
 JavaScript is a powerful and flexible programming language, but there are several points to keep in mind to write more efficient and professional code. Here are 10 tips to help you improve your JavaScript skills:
 
